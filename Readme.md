@@ -1,5 +1,5 @@
-## Udemy-Git Course
+## Udemy-Introduction to Git and Githup Course
 ### First Assignment
 
-Name: Alaa Ghaith
-Note: Good Luck
+* Name: Alaa Ghaith
+* Note: Good Luck
